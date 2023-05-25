@@ -1,0 +1,17 @@
+body{
+	padding-top: 50px;
+}
+
+.aspecto{
+	text-align: center;
+	/* border: solid;*/
+}
+
+
+.marcado {
+  transition: background-color .5s;
+}
+
+.marcado:hover{
+	background-color: rgb(169, 204, 227);
+}
